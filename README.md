@@ -22,4 +22,4 @@ A desktop-based movie discovery application built with Python. This tool provide
 * **Data Analysis:** Pandas
 * **Image Processing:** Pillow (PIL)
 * **Audio:** Pygame
-* **Networking:** Requests (for API/URL image fetching).
+* **Networking:** Requests (for API/URL image fetching)
